@@ -14,6 +14,4 @@ export default class Workout extends BaseModel {
     public addExercise(exercise: Exercise): void {
         this.exercises.push(exercise);
     }
-
-    
 }

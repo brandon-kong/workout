@@ -7,4 +7,6 @@ export default class Exercise extends BaseModel {
         super();
         this.name = name;
     }
+
+    
 }
